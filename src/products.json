@@ -1,0 +1,65 @@
+[
+	{
+		"id": "ce69dd13-5712-4424-a9fe-e437ac494656",
+		"title": "producto6",
+		"description": "producto de prueba6",
+		"price": 6,
+		"thumbnails": [],
+		"code": "producto6",
+		"status": true
+	},
+	{
+		"id": "9f909fe1-262b-4230-b7e4-f0db074f7a2a",
+		"title": "producto7",
+		"description": "producto de prueba7",
+		"price": 7,
+		"thumbnails": [],
+		"code": "producto7",
+		"status": true
+	},
+	{
+		"id": "bc0a766b-f5d4-4eab-bfc4-da0933f80744",
+		"title": "producto8",
+		"description": "producto de prueba8",
+		"price": 8,
+		"thumbnails": [],
+		"code": "producto8",
+		"status": true
+	},
+	{
+		"id": "344e5ea2-db69-40c9-b2da-655da669e5ac",
+		"title": "producto3",
+		"description": "producto de prueba1",
+		"price": 1,
+		"thumbnails": [],
+		"code": "producto11",
+		"status": true
+	},
+	{
+		"id": "1499ef8e-d385-4fe9-89c2-f568b945a03a",
+		"title": "producto3",
+		"description": "producto de prueba1",
+		"price": 7,
+		"thumbnails": [],
+		"code": "producto445",
+		"status": true
+	},
+	{
+		"id": "8e85902f-c335-4ef9-a20f-6dd4d9d15c17",
+		"title": "producto3",
+		"description": "producto de prueba1",
+		"price": 7,
+		"thumbnails": [],
+		"code": "producto45455",
+		"status": true
+	},
+	{
+		"id": "dcd3aa0a-36f1-468d-a3e4-05b4cffbf53b",
+		"title": "productform",
+		"description": "form productos",
+		"price": 234,
+		"thumbnails": "sdaasd",
+		"code": "879",
+		"status": "activo"
+	}
+]
